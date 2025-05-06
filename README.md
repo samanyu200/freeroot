@@ -1,8 +1,7 @@
-# Foxytoux Installer
+# Root Installer
 
 ## Overview
 
-This shell script is designed to automate the installation of Foxytoux, a lightweight Ubuntu environment using Proot.
 
 ## Prerequisites
 
@@ -16,7 +15,7 @@ This shell script is designed to automate the installation of Foxytoux, a lightw
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/foxytouxxx/freeroot.git
+    git clone https://github.com/samanyu200/freeroot.git
     cd freeroot
     ```
 
@@ -35,14 +34,7 @@ This shell script is designed to automate the installation of Foxytoux, a lightw
 - x86_64 (amd64)
 - aarch64 (arm64)
 
-## License
 
-This Foxytoux Installer script is released under the [MIT License](LICENSE).
-
-## Credits
-
-Foxytoux Installer is developed and maintained by RecodeStudios.Cloud.
-This installer has been made possible thanks to [dxomg](https://github.com/dxomg) for his proot code
 
 ---
 
